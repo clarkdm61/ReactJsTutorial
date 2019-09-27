@@ -1,7 +1,12 @@
 See [ReactJS Turorial](https://reactjs.org/tutorial/tutorial.html).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+
+If you just cloned the repo, you need to initialize the project with:
+
+### `npm install`
 
 In the project directory, you can run:
 
